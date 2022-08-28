@@ -6,7 +6,8 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 ### app screenshot
 
-
+![ScreenShot](/images/deployedscreenshot.png)
+![ScreenShot](/images/deployedsecondscsht.png)
 
 The project is split into three parts:
 1. [The Simple Frontend](https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-frontend)
